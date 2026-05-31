@@ -1,660 +1,182 @@
 [
-  {
-    "uid": 4940076943,
-    "password": "BF702AFBC6D49FBFA3BC44FE275AA5E2904F024D89BE84956D1D397146D5BD95",
-    "account_id": "15785774515",
-    "name": "ROCK\u4e97\u01a7\u211b\u3011",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:35",
-    "thread_id": 14
-  },
-  {
-    "uid": 4940077021,
-    "password": "DB8F5D8E40D130D65D6E64A518C61CE88AE45340FE08943BAFD4FD5B3E38C9D4",
-    "account_id": "15785774604",
-    "name": "ROCK\u01a7\u300a\u30c5\u30b7",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:35",
-    "thread_id": 4
-  },
-  {
-    "uid": 4940076925,
-    "password": "A9E4A17CB3B6FF05FCD3F94A8CAA4AA2B621A2A74F7B1BCC72D4B74C1E26C8A5",
-    "account_id": "15785774449",
-    "name": "ROCK\u1d0b\u2c64\u2133",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:35",
-    "thread_id": 6
-  },
-  {
-    "uid": 4940076957,
-    "password": "156CE01AAEC48EA0BB5665030314BCF71394EC2E29B5AB2464186CAF1C641937",
-    "account_id": "15785774476",
-    "name": "ROCK\u0187\u300c\u300f\u221e",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:35",
-    "thread_id": 30
-  },
-  {
-    "uid": 4940076898,
-    "password": "817420204CD08126BDF89274BA762831B76914D102B251B3745CC4034C574378",
-    "account_id": "15785774429",
-    "name": "ROCK\u300c\u22c8\u2606\u2605",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:35",
-    "thread_id": 27
-  },
-  {
-    "uid": 4940076998,
-    "password": "E4EB40F76E06BE8785BD2A2086E7A4F33CB23D4AD612EC087D5382D30771035A",
-    "account_id": "15785774595",
-    "name": "ROCK\u01b3\u01b8\u300f\uaa80",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:35",
-    "thread_id": 21
-  },
-  {
-    "uid": 4940076960,
-    "password": "7CE5D5989246FD5299B6C87A4F0CAAACEBBA8DC5107A5673CD21154F8CA9020E",
-    "account_id": "15785774520",
-    "name": "ROCK\u2727\u2133\u00b0",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:35",
-    "thread_id": 26
-  },
-  {
-    "uid": 4940076935,
-    "password": "F38D202F38F5375700F1AE272A4310315755A3B874109C394AFD42B848740D7C",
-    "account_id": "15785774505",
-    "name": "ROCK\u22b9\u2605\u1d0b",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:35",
-    "thread_id": 28
-  },
-  {
-    "uid": 4940077002,
-    "password": "FD793CBC67339AC2FB092A222E986EF42ACDA1CC87924343AE3523CED48073EE",
-    "account_id": "15785774613",
-    "name": "ROCK\u00b7\u00b0\u0f3b",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:35",
-    "thread_id": 3
-  },
-  {
-    "uid": 4940076969,
-    "password": "251003CF8E969A438C943A030EA6EC78023D576AF5D71BF88855460ECB82741F",
-    "account_id": "15785774583",
-    "name": "ROCK\u2661\u00d8\u0f3b",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:35",
-    "thread_id": 31
-  },
-  {
-    "uid": 4940076986,
-    "password": "365751B8B77FCC207A1B984B1CB2FD53BE860B0F5BDF0F6718374C4F2688A4A9",
-    "account_id": "15785774608",
-    "name": "ROCK\u2302\u0f3b\u22c8",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:36",
-    "thread_id": 32
-  },
-  {
-    "uid": 4940077033,
-    "password": "2D2239DE14C5F15BC42CDD57274567562A8E6D738E2F0018DC5EF4768D588817",
-    "account_id": "15785774640",
-    "name": "ROCK\u00b7\u029c\u2022\u22c8",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:36",
-    "thread_id": 9
-  },
-  {
-    "uid": 4940076936,
-    "password": "3F6929439B256F40A3ECE2CDF79205CF09C54B6DDA16589CA30C389350C1C1A6",
-    "account_id": "15785774474",
-    "name": "ROCK\u01b3\u1d0d\u30c4\u25c7",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:36",
-    "thread_id": 13
-  },
-  {
-    "uid": 4940077000,
-    "password": "E535877CBB6B8E898EDF92F677BD878C36C71050AE22FEB359934A1551A65585",
-    "account_id": "15785774636",
-    "name": "ROCK\u01b3\u221e\u300d",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:36",
-    "thread_id": 1
-  },
-  {
-    "uid": 4940076995,
-    "password": "FD6750718BEBA4E6BC667228D1FB33E60CC76E5E47DDF628D245EF108D30093F",
-    "account_id": "15785774710",
-    "name": "ROCK\u0f3b\u300c\u2364",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:36",
-    "thread_id": 25
-  },
-  {
-    "uid": 4940076897,
-    "password": "2E9D5531104874089456B95E31746CB935B9CFC20CF7075BDD65A5A21C1D1E54",
-    "account_id": "15785774526",
-    "name": "ROCK\u2133\u22c6\u2c64\u4e97",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:36",
-    "thread_id": 23
-  },
-  {
-    "uid": 4940076999,
-    "password": "FC1AD78DFB3BC89860A8DFE0A2051C710A6CBEBBCA8D4D21F06A3ABDEF593E18",
-    "account_id": "15785774585",
-    "name": "ROCK\u4e42\u2c64\u25c6\u3011",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:36",
-    "thread_id": 11
-  },
-  {
-    "uid": 4940076949,
-    "password": "1C989AF9307F2D592357214E0277D0D87A945002FB836103C00F7B318BAF90F2",
-    "account_id": "15785774540",
-    "name": "ROCK\u2364\u25c7\u4e42\u2727",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:36",
-    "thread_id": 18
-  },
-  {
-    "uid": 4940076964,
-    "password": "A053F29F394BAB5A65EF308568267CDEF7170B4A6B5EBD939C9D186E63D1233E",
-    "account_id": "15785774571",
-    "name": "ROCK\u00b7\u01a7\uaa80\u25b8",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:36",
-    "thread_id": 16
-  },
-  {
-    "uid": 4940077074,
-    "password": "5C3CCDCDCF0BFEE8F6B9FF02DDDB27B4944B828A90BF9415A3965076FAA2A69C",
-    "account_id": "15785774674",
-    "name": "ROCK\u300b\u30c4\u3010",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:36",
-    "thread_id": 12
-  },
-  {
-    "uid": 4940077036,
-    "password": "A7E7F64206D5A5770C6486C5ECEDC04343A17526B444DF8135CA1C9E4D1D0456",
-    "account_id": "15785774702",
-    "name": "ROCK\u2364\u029c\u25b8",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:36",
-    "thread_id": 17
-  },
-  {
-    "uid": 4940077004,
-    "password": "5E20DDED0E3E0526FEEB4FF1DE05E4D53AA2512CBB1F34F0DA0CA947BAD4D84F",
-    "account_id": "15785774530",
-    "name": "ROCK\u300f\u1d0b\u0187",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:36",
-    "thread_id": 10
-  },
-  {
-    "uid": 4940077012,
-    "password": "CBB2246DA238138CBDACA7639846E2DEEA21BA039977EAAC4862395554C874B0",
-    "account_id": "15785774654",
-    "name": "ROCK\u300e\u1d0b\u2364\u4e42",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:37",
-    "thread_id": 29
-  },
-  {
-    "uid": 4940077001,
-    "password": "C66043CE8F58F21ACCD6D3327F6F99062525B965C3120CFBB573A0E392DA6CCB",
-    "account_id": "15785774611",
-    "name": "ROCK\u01a7\uc720\u300b\u029c",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:37",
-    "thread_id": 15
-  },
-  {
-    "uid": 4940077043,
-    "password": "1BC5A06C3E229C04F2766D6BFFEF06DE62F0A27CDDD7FAD10F4B365851F78191",
-    "account_id": "15785774627",
-    "name": "ROCK\u01a6\uaa86\u2364",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:37",
-    "thread_id": 24
-  },
-  {
-    "uid": 4940077014,
-    "password": "F0A500BC50975FF8EED8509E09A22E76678032384CF880704B25F130A3A6A2A3",
-    "account_id": "15785774688",
-    "name": "ROCK\uaa86\u2661\u029c",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:38",
-    "thread_id": 22
-  },
-  {
-    "uid": 4940077027,
-    "password": "D58192F93D11949AD1C92069C521E2AEFD9ABA49FF02028AD92E2A40F4EFB9AE",
-    "account_id": "15785774660",
-    "name": "ROCK\u211b\u22b9\u0fd0\u2606",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:38",
-    "thread_id": 7
-  },
-  {
-    "uid": 4940076994,
-    "password": "7CCF788EFBC01E2D1003DE90719CB5F9DF80BDD533D6292886E8E60FA4AE7609",
-    "account_id": "15785774509",
-    "name": "ROCK\uaa86\u211b\u22c8",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:38",
-    "thread_id": 2
-  },
-  {
-    "uid": 4940078466,
-    "password": "05907038300AEC27DECC5AD85BDB26923119DD0CB8D212B6AB2EF6A5D7680649",
-    "account_id": "15785777269",
-    "name": "ROCK\u4e42\u0fd0\u2364",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:49",
-    "thread_id": 19
-  },
-  {
-    "uid": 4940078474,
-    "password": "BF0549D01270E06ADBA0F00B41D22F8A66CB114D7B5C0DF58870DBAEE0496F2C",
-    "account_id": "15785777307",
-    "name": "ROCK\u30c5\u0274\uc6c3",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:50",
-    "thread_id": 8
-  },
-  {
-    "uid": 4940078498,
-    "password": "CDA54885E90BE4913DB7E48DFD72F6CE5BD12230EF3EEAB800495FAD4C1EAE47",
-    "account_id": "15785777390",
-    "name": "ROCK\u01a6\u22c6\u25b2",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:50",
-    "thread_id": 5
-  },
-  {
-    "uid": 4940078743,
-    "password": "ACED73CCF0114EB20EEBD3DE3EEA2183A092A2E2FB6734880AB49BF2A0039EB8",
-    "account_id": "15785777577",
-    "name": "ROCK\u029c\u3017\u25c8",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:50",
-    "thread_id": 4
-  },
-  {
-    "uid": 4940078724,
-    "password": "5449AC2791EB3BB9BDD279B54D96057BB44091FEAFC021B1AE727BF383881AC2",
-    "account_id": "15785777506",
-    "name": "ROCK\u2c64\u01b5\u30c5\u2c64",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:50",
-    "thread_id": 14
-  },
-  {
-    "uid": 4940078751,
-    "password": "B7669D88B31BA8C4E9F8B9AB46DC10C20ACBC0DF7F4706F737BF237510082B5F",
-    "account_id": "15785777558",
-    "name": "ROCK\u22c6\u2022\u01a7",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:50",
-    "thread_id": 21
-  },
-  {
-    "uid": 4940078782,
-    "password": "104F275AF6931E657E1808A65B417391354FFD976A3CA84C58A593933CE0C158",
-    "account_id": "15785777639",
-    "name": "ROCK\uc720\u30c4\u25c6\u2302",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:50",
-    "thread_id": 6
-  },
-  {
-    "uid": 4940078476,
-    "password": "D3B46CEEE60A4570574C8F2281A063E0DD6EE6D9F035C8F955909C83433EBED8",
-    "account_id": "15785777354",
-    "name": "ROCK\u300c\ua9c2\u25c7\u0f3b",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:50",
-    "thread_id": 20
-  },
-  {
-    "uid": 4940078775,
-    "password": "352D3FB2E2A05DB79E23D3D51BA8AF3DB0905EB7F7F02011C9C7E9E0D3DFD7CD",
-    "account_id": "15785777594",
-    "name": "ROCK\u3011\u00b0\u0f3b\u211b",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:51",
-    "thread_id": 3
-  },
-  {
-    "uid": 4940078771,
-    "password": "4AC13ACF325F9184C24A31D21427277ABFB27E9B993EEDE527BE374EC70799F1",
-    "account_id": "15785777654",
-    "name": "ROCK\u300d\u30b7\u25c8\u3017",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:51",
-    "thread_id": 30
-  },
-  {
-    "uid": 4940078805,
-    "password": "22DAB18CB74C40FE7008C29729E6BC13FA2DA4B000238EFCBC005D055EB17ECF",
-    "account_id": "15785777682",
-    "name": "ROCK\u30b7\u300f\u2364\u01a7",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:51",
-    "thread_id": 17
-  },
-  {
-    "uid": 4940078833,
-    "password": "FC9552D2A98D467A0FBCDBBED918AF2126D86206EF00B491FEE8736EDC618EB6",
-    "account_id": "15785777774",
-    "name": "ROCK\u2133\u22c6\u2726",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:51",
-    "thread_id": 12
-  },
-  {
-    "uid": 4940078854,
-    "password": "6C993FCFF4CF6512AEEFF2B9E1196E79391668A3CC1F14F9BD9F990E717E50FB",
-    "account_id": "15785777792",
-    "name": "ROCK\u25c7\uaa80\u300e",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:51",
-    "thread_id": 18
-  },
-  {
-    "uid": 4940078769,
-    "password": "475A93B06BE2F67746601798D4E2AB188851B570EDC02A564976D345BC4772C4",
-    "account_id": "15785777728",
-    "name": "ROCK\u029c\u0f3b\u2726",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:51",
-    "thread_id": 27
-  },
-  {
-    "uid": 4940078827,
-    "password": "DC855CBC00626C1E60F103DA781699D331C6FA3AF1E0BC8FB1A311E67DC45EC1",
-    "account_id": "15785777745",
-    "name": "ROCK\u2726\u2022\u01b3\u30f3",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:51",
-    "thread_id": 1
-  },
-  {
-    "uid": 4940078836,
-    "password": "EC5DDF6C4698372FCFA2228E3500BBC13365637D84CE48E084086CE579F78171",
-    "account_id": "15785777773",
-    "name": "ROCK\u25c7\u1d0b\u2022\u1d0b",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:52",
-    "thread_id": 15
-  },
-  {
-    "uid": 4940078832,
-    "password": "B10C37AF72519149D1C9F197D682E52629557A9093177DF393815ED15EC7F4BF",
-    "account_id": "15785777810",
-    "name": "ROCK\u22c6\u2605\u300a\u1d0d",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:52",
-    "thread_id": 10
-  },
-  {
-    "uid": 4940078818,
-    "password": "7237E64DB74974B52C8C723A7F12D021C1461125446E459F461C4D4593EE182B",
-    "account_id": "15785777755",
-    "name": "ROCK\u2727\u00b7\uc6c3",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:52",
-    "thread_id": 23
-  },
-  {
-    "uid": 4940078852,
-    "password": "29287A86497347E250FA9D0484C4D86DC08A0ABD021A1E57E29C2030096C98CE",
-    "account_id": "15785777800",
-    "name": "ROCK\u0f3b\u30c3\u2605",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:52",
-    "thread_id": 16
-  },
-  {
-    "uid": 4940078869,
-    "password": "0A6053819E93951EFAA1EF238B59BB7083D2D2EF1E7F899946DD286E69183049",
-    "account_id": "15785777886",
-    "name": "ROCK\u2c64\u026a\u25b8\u029c",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:52",
-    "thread_id": 24
-  },
-  {
-    "uid": 4940078820,
-    "password": "912F9EB7748E283849D70E5E17C132F2B529BFBFFFB98B318234EB24E1ED0ECC",
-    "account_id": "15785777772",
-    "name": "ROCK\u30f3\u01a6\uc720\u0fd0",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:52",
-    "thread_id": 26
-  },
-  {
-    "uid": 4940078839,
-    "password": "759C88545220F15CB4E90AA8F26C0233AF5077E84604EC46FAB7D19776CE6755",
-    "account_id": "15785777798",
-    "name": "ROCK\u2133\u01b3\u0f3b",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:52",
-    "thread_id": 11
-  },
-  {
-    "uid": 4940078865,
-    "password": "0BC27522B7ACD2BF8F6172385D2D92BBCACEFC82E27D563FC6A40AB339F5E06D",
-    "account_id": "15785777846",
-    "name": "ROCK\u300e\u4e42\u30b8\u4e42",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:52",
-    "thread_id": 31
-  },
-  {
-    "uid": 4940078842,
-    "password": "BE015E9B9939FC929D1DD04E016D3E62988C741B6F7BE2C135CC8E12FFADE2A6",
-    "account_id": "15785777813",
-    "name": "ROCK\u25b8\u2022\u01b3\u026a",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:52",
-    "thread_id": 13
-  },
-  {
-    "uid": 4940078890,
-    "password": "83BCAA1A65027268D43A102D978863BC6881AFBD3DF7B46A01FD9BD127CEFEAF",
-    "account_id": "15785777903",
-    "name": "ROCK\u1d0b\u300c\u029c",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:52",
-    "thread_id": 32
-  },
-  {
-    "uid": 4940078876,
-    "password": "B39098D36C6F0772969800EE59F94324CD781812EBC3C7D6E93EB0E17D40AC20",
-    "account_id": "15785777923",
-    "name": "ROCK\u22c6\u4e97\u1d0d\uaa86",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:53",
-    "thread_id": 28
-  },
-  {
-    "uid": 4940078879,
-    "password": "8C90BBED613E70C3440ED41D306507902CCE46258A50335D5BA9AAEF4C010940",
-    "account_id": "15785777883",
-    "name": "ROCK\u01a7\u4e97\u3010\u30c4",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:53",
-    "thread_id": 29
-  },
-  {
-    "uid": 4940078926,
-    "password": "CBDA98590B1525ED42B4B4BF9334D3F408EC8320D3C095249DD5B5E0EA4AAAB0",
-    "account_id": "15785777985",
-    "name": "ROCK\u266a\u01b3\ua9c1\u3011",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:53",
-    "thread_id": 2
-  },
-  {
-    "uid": 4940078936,
-    "password": "18E013E3B0A67A8F5958585853F8C6850BF238AF5109BCA82EC3E62955A26192",
-    "account_id": "15785778027",
-    "name": "ROCK\u25b8\u300e\u00b7",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:53",
-    "thread_id": 22
-  },
-  {
-    "uid": 4940078914,
-    "password": "2ED9F0950F6A5F4C8BE2FF681FC2F827C75A65CFC097EF7F3798289264CABD59",
-    "account_id": "15785778008",
-    "name": "ROCK\u00d8\u029c\u4e97\u2726",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:53",
-    "thread_id": 25
-  },
-  {
-    "uid": 4940078963,
-    "password": "F0D596E1F92EDE4C1DDB12D6F13730022E821AAB0C733C92FEE9B8020A6A54ED",
-    "account_id": "15785778107",
-    "name": "ROCK\u30b7\u300d\u0187",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:53",
-    "thread_id": 7
-  },
-  {
-    "uid": 4940079054,
-    "password": "560CE8A99FB23B0A5D68089913E1098271179CDCE7D797AE7E16EFE1EA89AFEB",
-    "account_id": "15785778391",
-    "name": "ROCK\u22c6\u300b\u01b3",
-    "region": "IND",
-    "date_created": "2026-05-23 13:49:56",
-    "thread_id": 9
-  },
-  {
-    "uid": 4940079468,
-    "password": "72B2EFB9951B23CCD9BA4E9F820512AF4F912C49C051A9E05153D9F05EE85F39",
-    "account_id": "15785779959",
-    "name": "ROCK\u01a7\u5f61\u2605",
-    "region": "IND",
-    "date_created": "2026-05-23 13:50:06",
-    "thread_id": 19
-  },
-  {
-    "uid": 4940080571,
-    "password": "683C789FFDFC6E759E06EB236571CEACD42F065BAEC529368AFD72C9276D22DA",
-    "account_id": "15785780413",
-    "name": "ROCK\u0fd0\u00d8\u1d0b\u30c5",
-    "region": "IND",
-    "date_created": "2026-05-23 13:50:10",
-    "thread_id": 8
-  },
-  {
-    "uid": 4940080808,
-    "password": "DE87373DE561E0567D66849263E306C4D9BDB6FAAE1DEC9AE5E4007F4ED07827",
-    "account_id": "15785780621",
-    "name": "ROCK\u0187\u30c4\u25b8",
-    "region": "IND",
-    "date_created": "2026-05-23 13:50:11",
-    "thread_id": 21
-  },
-  {
-    "uid": 4940080817,
-    "password": "887A13E07EC5544F38505DA835D3E0CF8640FF8C3FCCDE2D1F25FAD7A111484E",
-    "account_id": "15785780610",
-    "name": "ROCK\u266a\uc720\u01a7",
-    "region": "IND",
-    "date_created": "2026-05-23 13:50:12",
-    "thread_id": 26
-  },
-  {
-    "uid": 4940080935,
-    "password": "E3664DE203180C8EC441C2FC4F8E13D918B2A717FF274D5FAEE28C1D2C17EBB0",
-    "account_id": "15785780718",
-    "name": "ROCK\u3016\u25c8\ua9c1",
-    "region": "IND",
-    "date_created": "2026-05-23 13:50:12",
-    "thread_id": 23
-  },
-  {
-    "uid": 4940080790,
-    "password": "5EEE2D018243919F2094FD9518A1CE8E660EF13EB06BF282C83B4472CFDC15EA",
-    "account_id": "15785780639",
-    "name": "ROCK\u211b\u0274\u2727\u25c6",
-    "region": "IND",
-    "date_created": "2026-05-23 13:50:12",
-    "thread_id": 10
-  },
-  {
-    "uid": 4940080929,
-    "password": "F903A3C274B4251C55A75B12D567D9A964D2AF5839C252523147DE7D3298C9FB",
-    "account_id": "15785780680",
-    "name": "ROCK\uc720\u01b5\u3010\u300f",
-    "region": "IND",
-    "date_created": "2026-05-23 13:50:12",
-    "thread_id": 27
-  },
-  {
-    "uid": 4940080940,
-    "password": "E39B2AE3AE3620C4C957E640B4B7521D1C3530135DC7D19420ECC3059F9E5944",
-    "account_id": "15785780747",
-    "name": "ROCK\u2727\u25c8\u029c",
-    "region": "IND",
-    "date_created": "2026-05-23 13:50:12",
-    "thread_id": 3
-  },
-  {
-    "uid": 4940080895,
-    "password": "2BE96B61FE927C6F2B29228F740DB304252DFF9A827462695493AD6EFB41406B",
-    "account_id": "15785780708",
-    "name": "ROCK\u300c\u3017\u00b0\u0187",
-    "region": "IND",
-    "date_created": "2026-05-23 13:50:13",
-    "thread_id": 6
-  },
-  {
-    "uid": 4940080919,
-    "password": "FDE68F0157BC7911B932B5BF12CC8F4A7FFD3B402FB9C7133A0432B877151ACB",
-    "account_id": "15785780824",
-    "name": "ROCK\u22b9\u2661\ua9c2",
-    "region": "IND",
-    "date_created": "2026-05-23 13:50:15",
-    "thread_id": 15
-  },
-  {
-    "uid": 4940080949,
-    "password": "35F3D2E81520E5663667B105A7BC933288C495AA318F48BEEFB8F8B3DFE45A16",
-    "account_id": "15785780727",
-    "name": "ROCK\u01b5\u0187\u1d0b\u026a",
-    "region": "IND",
-    "date_created": "2026-05-23 13:50:16",
-    "thread_id": 13
-  },
-  {
-    "uid": 4940081277,
-    "password": "DD54667DE874B49B71A523F98295D40ED3131C1624A0E9DFAC0DABD4BBA0479D",
-    "account_id": "15785781433",
-    "name": "ROCK\u5f61\uc720\u3011\u00b7",
-    "region": "IND",
-    "date_created": "2026-05-23 13:50:16",
-    "thread_id": 29
-  },
-  {
-    "uid": 4940080902,
-    "password": "399DD056F6B12F81F3F54D1E897EF34124EE0C111EB3AD324040BE980B1F2729",
-    "account_id": "15785780731",
-    "name": "ROCK\u0187\u00d8\ua9c1\u2133",
-    "region": "IND",
-    "date_created": "2026-05-23 13:50:16",
-    "thread_id": 5
-  },
-  {
-   
+    {
+        "uid": 4940115350,
+        "password": "C05203229AE087641AA050556155888F3461B8DF91FC0AB70157D14E4440B6ED",
+        "account_id": "15785823069",
+        "name": "ROCK⌂ꪀ✦",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:43",
+        "thread_id": 19
+    },
+    {
+        "uid": 4940115643,
+        "password": "96A213F3B03CC2883BF12B85A11EBB4141A1056B88BDB07E24249BAA15AE2B9A",
+        "account_id": "N/A",
+        "name": "ROCK〗ꪀƇ",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:48",
+        "thread_id": 11
+    },
+    {
+        "uid": 4940115297,
+        "password": "E5298D8A6461AC94CBC9D06C1D3E801B8F015854287F3F893B3D284A39EDA21A",
+        "account_id": "15785823006",
+        "name": "ROCKシ꧁▲",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:34",
+        "thread_id": 30
+    },
+    {
+        "uid": 4940114312,
+        "password": "91A08182BFAA96A896D9F660FB9B977DBC9EB1CCC9EFA3E7BB893F75CDB4BD82",
+        "account_id": "15785821967",
+        "name": "ROCK⌂Ʀ♪Ɽ",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:24",
+        "thread_id": 6
+    },
+    {
+        "uid": 4940114172,
+        "password": "26DF3A136427E1B2CD9FCC1EF4A13FD0EFC52A55C5C036BF54CCF451F0B3A6A0",
+        "account_id": "15785821853",
+        "name": "ROCKɴ〗꧂",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:23",
+        "thread_id": 22
+    },
+    {
+        "uid": 4940115851,
+        "password": "8AA6A41BE56A809F3617DE95E0D6EE1D681C0BD1716B494A4CE91A4EACB7E74E",
+        "account_id": "15785824518",
+        "name": "ROCK》⊹♡ッ",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:59",
+        "thread_id": 14
+    },
+    {
+        "uid": 4940114190,
+        "password": "6F3333DF4E4E85BA1D796A6CE017E5D4648243E976FAD4B5AA83740A1FAEB393",
+        "account_id": "15785821916",
+        "name": "ROCK》⊹∞",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:24",
+        "thread_id": 18
+    },
+    {
+        "uid": 4940115845,
+        "password": "FD0CF429BC285199C6BEAE16463D56AB1C2CCFBAC572150E5AE9783C86A4A50E",
+        "account_id": "15785823866",
+        "name": "ROCK⊹】ジ♪",
+        "region": "IND",
+        "date_created": "2026-05-23 13:55:00",
+        "thread_id": 8
+    },
+    {
+        "uid": 4940114244,
+        "password": "21B63A778C74A78E94F80980AB7ABFCB5E5A16A4C55B936214DE16F0B61AAFD9",
+        "account_id": "15785821941",
+        "name": "ROCKヅ⌂」Ƴ",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:24",
+        "thread_id": 23
+    },
+    {
+        "uid": 4940114358,
+        "password": "E8721BA52F0A78F66B14FC6EE31BB36BD9CA3A59250EF0929A96BBF33A3091E9",
+        "account_id": "15785821957",
+        "name": "ROCKƸ⊹」ヅ",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:25",
+        "thread_id": 21
+    },
+    {
+        "uid": 4940114350,
+        "password": "2FDBAD5755E3163E17CFB0F7E9E24BBDFEF03D838E9543BCB3B6707F19022D46",
+        "account_id": "15785821966",
+        "name": "ROCKʜ⍤ヅ",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:25",
+        "thread_id": 25
+    },
+    {
+        "uid": 4940114433,
+        "password": "AD129517FAD5500961ECC088CA1C5713BC47FDB9EA06D8C91C4DBC5DF224D589",
+        "account_id": "15785822051",
+        "name": "ROCKᴍ··",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:25",
+        "thread_id": 15
+    },
+    {
+        "uid": 4940114834,
+        "password": "8B16B81787AEC23DA5FBD9F0562F2AD591AC35824C5FF87C3ED1E11FA4635A88",
+        "account_id": "15785822489",
+        "name": "ROCK⋈【〗〗",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:28",
+        "thread_id": 16
+    },
+    {
+        "uid": 4940115032,
+        "password": "10C52DEF2E88F903CAC5A71CB9E496FF97098DE8EAAF0ABA3004BCD34E5F8ED3",
+        "account_id": "15785822778",
+        "name": "ROCK▲〗彡Ɽ",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:30",
+        "thread_id": 26
+    },
+    {
+        "uid": 4940114969,
+        "password": "DA47A97A5FC1AB5ADCF545B772142A1E9CAB35D057A6C337883B1A5F45BC5489",
+        "account_id": "15785822663",
+        "name": "ROCK⋆彡⋆",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:30",
+        "thread_id": 4
+    },
+    {
+        "uid": 4940114990,
+        "password": "948108E67EC668ECB389D631F34697CDF3A6E0635630D081AF4D95B2BDEA65F4",
+        "account_id": "15785822695",
+        "name": "ROCKジツɴジ",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:31",
+        "thread_id": 2
+    },
+    {
+        "uid": 4940115001,
+        "password": "AA0E50938DE2511BDED5C7D50771272CB394F786CD77BCD2D37B68706E4B67ED",
+        "account_id": "15785822748",
+        "name": "ROCK〗◇ꪀジ",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:33",
+        "thread_id": 5
+    },
+    {
+        "uid": 4940115568,
+        "password": "B27A3D819C02C42C3C649F0BB885E79B254B085509BF9BB8663A7F67BD6199E7",
+        "account_id": "15785823304",
+        "name": "ROCK「♪【ɴ",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:48",
+        "thread_id": 12
+    },
+    {
+        "uid": 4940114148,
+        "password": "22FF63C9DCB8C22548049FDD993564A68949045176B00231265A3DE8F1100A70",
+        "account_id": "15785821778",
+        "name": "ROCK◇ɪ◇✧",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:23",
+        "thread_id": 27
+    },
+    {
+        "uid": 4940114987,
+        "password": "B4489A120BDD7CAE0A65470115AB4604486FFA64F3F280A88214CCBD24BC5A19",
+        "account_id": "15785822673",
+        "name": "ROCK✧」ンɴ",
+        "region": "IND",
+        "date_created": "2026-05-23 13:54:38",
+        "thread_id": 10
+    }
+]
